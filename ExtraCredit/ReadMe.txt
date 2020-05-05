@@ -2,7 +2,7 @@ Hi!
 
 In order to explore the material in more depth, we decided to visualize how a Cifar10 ResNet34 model responds to adversarial attacks. We think our findings are pretty cool!
 
-In order to run the notebok please visit the google colab link: 
+We included the .ipynb file, but for the best experience please visit the google colab link: 
 
 https://colab.research.google.com/drive/1eGzn5oVXh2hi4FAAygjBHalpIhx7V6O8
 
